@@ -44,7 +44,9 @@ SmartKeg is based on a number of open source projects:
 License
 ----
 
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License 
+
+([Readable Version])
 
 
 
@@ -63,3 +65,4 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public L
    [Arduino and Relays]: <http://makezine.com/projects/arduino-relays-high-voltage/>
    [Plugduino]: <http://www.instructables.com/id/plugduino-Arduino-based-120-Volt-outlet-controll/>
    [Kegbot Kegerator Project]: <https://github.com/Kegbot>
+   [Readable Version]: <https://creativecommons.org/licenses/by-nc-sa/4.0/>
