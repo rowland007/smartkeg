@@ -4,11 +4,13 @@
 There are a bunch of "Smart Keg" projects out there.  This one is my own implementation of one tailored to fit my needs. In the references section, you will find other projects that I used as a guideline to build this one.  You can also find more detailed directions of the build at [Randar Labs][df1].
 
 This project aims to use an Arduino to manage the following:
+
 * Monitor temperature inside the kegerator
 * Activate a power outlet when beer is pouring (Beer light plugged into outlet)
 * Count how many beers are left in the keg
 
 Supplies used:
+
 * [Arduino UNO Rev 3] - $24.95
 * [2.8" TFT Touch Shield for Arduino with Capacitive Touch] - $49.99
 * [TOOGOO DC 5V Coil Relay Module for SCM Development/Home Appliance Control] - $2.69
