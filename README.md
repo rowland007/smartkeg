@@ -1,7 +1,7 @@
 ﻿# SmartKeg
 
 ### Overview
-There are a bunch of "Smart Keg" projects out there.  This one is my own implmentation of one tailored to fit my needs. In the references section you will find other projects that I used as a guideline to build this one.  You can also find more detailed directions of the build at [Randar Labs][df1].
+There are a bunch of "Smart Keg" projects out there.  This one is my own implementation of one tailored to fit my needs. In the references section, you will find other projects that I used as a guideline to build this one.  You can also find more detailed directions of the build at [Randar Labs][df1].
 
 This project aims to use an Arduino to manage the following:
 * Monitor temperature inside the kegerator
@@ -22,7 +22,7 @@ Supplies used:
 
 ### References
 
-SmartKeg is based off of a number of open source projects:
+SmartKeg is based on a number of open source projects:
 
 * [Smart Kegerator v1] & [Smart Kegerator v2]
 * [KegDuino]
@@ -61,5 +61,3 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public L
    [Arduino and Relays]: <http://makezine.com/projects/arduino-relays-high-voltage/>
    [Plugduino]: <http://www.instructables.com/id/plugduino-Arduino-based-120-Volt-outlet-controll/>
    [Kegbot Kegerator Project]: <https://github.com/Kegbot>
-   
-
