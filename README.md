@@ -32,6 +32,8 @@ SmartKeg is based on a number of open source projects:
 * [Arduino and Relays]
 * [Plugduino]
 * [Kegbot Kegerator Project]
+* [DIYBrewPi]
+* [HomeBrewTalk.com]
 
 ### Todos
 
@@ -66,3 +68,5 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public L
    [Plugduino]: <http://www.instructables.com/id/plugduino-Arduino-based-120-Volt-outlet-controll/>
    [Kegbot Kegerator Project]: <https://github.com/Kegbot>
    [Readable Version]: <https://creativecommons.org/licenses/by-nc-sa/4.0/>
+   [DIYBrewPi]: <http://diybrewpi.wikia.com/wiki/DIYBrewPi_Wikia>
+   [HomeBrewTalk.com]: <http://www.homebrewtalk.com/showthread.php?t=466106>
